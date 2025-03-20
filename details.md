@@ -1,10 +1,13 @@
 # Details
 
 ## More Information
-
 Here is an unordered list:
-- item A
-- item B
-- item C
-![Image Description](adobestock_dachstein.jpg)
-[Back to MAin Page](index.md)
+
+- Item A
+- Item B
+- Item C
+
+![Image Description](image.png)
+
+[Back to Main Page](index.md)
+
