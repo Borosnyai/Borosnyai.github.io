@@ -1,8 +1,9 @@
-# Hallo!
-## Having fun, Learning markdown!
-1. list 1
-2. list 2
-3. list 3
-* dispilin
-* konseqvens
-* wille
+# My Project!
+## Introduction
+Welcome to my Markdown page!
+
+### Ordered List
+1. First item
+2. Second item
+3. third item
+[More details](details.md)
