@@ -8,4 +8,5 @@ Welcome to my Markdown page!
 3. third item
 
 [More details](details.md)
+
 [Go for wisdom site](viktor_1.md)
